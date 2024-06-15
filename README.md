@@ -1,5 +1,5 @@
 # what this repository about?
-This repository serves primarily as a showcase of the codes used in preprocessing steps of bulk RNA-seq analysis in my master thesis.
+The primary goal of this repository to deposit the codes used in preprocessing steps of bulk RNA-seq analysis on model plant _A. thaliana_ and rape seed _B. napus_ in my master thesis, as well as for sharing and demonstrating purposes.
 
 # what steps are included in raw-data preprocessing?
 As indicated by the name of my code files, the raw-data preprocessing includes five main steps: 
